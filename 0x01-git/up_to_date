@@ -1,11 +1,24 @@
 git clone
+touch README.md
 git add .
 git commit
 git push
 ls
 pwd
+mkdir 0x01-git
+cd 0x01-git
+mkdir bash
+mkdir c
+mkdir js
+cd bash
+touch alx
+touch School
+git add .
+git commit
+git push
 git checkout master update_script
 git checkout update_script
 git merge update_script
+rmdir js
 git status
 git log
