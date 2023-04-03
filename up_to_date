@@ -1,1 +1,11 @@
-
+git clone
+git add .
+git commit
+git push
+ls
+pwd
+git checkout master update_script
+git checkout update_script
+git merge update_script
+git status
+git log
